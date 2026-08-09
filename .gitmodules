@@ -14,3 +14,7 @@
 	path = _archived/Mainboard
 	url = https://github.com/felipegaspari/DCO4_Mainboard_Controller.git
 	branch = improvements
+[submodule "DCO_Noise"]
+	path = DCO_Noise
+	url = https://github.com/felipegaspari/DCO_Noise.git
+	branch = main
