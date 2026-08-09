@@ -18,3 +18,7 @@
 	path = DCO_Noise
 	url = https://github.com/felipegaspari/DCO_Noise.git
 	branch = main
+[submodule "VOICE-AUX"]
+	path = VOICE-AUX
+	url = https://github.com/felipegaspari/DCO3-MONOSYNTH-VOICE-AUX.git
+	branch = main
