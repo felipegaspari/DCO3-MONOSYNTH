@@ -22,3 +22,6 @@
 	path = VOICE-AUX
 	url = https://github.com/felipegaspari/DCO3-MONOSYNTH-VOICE-AUX.git
 	branch = main
+[submodule "MD_REncoder_FELA"]
+	path = MD_REncoder_FELA
+	url = https://github.com/felipegaspari/MD_REncoder_FELA.git
