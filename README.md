@@ -22,6 +22,14 @@ A **3-oscillator monosynth** firmware project, forked from DCO4. The DCO voice b
 
 Submodules: see `.gitmodules`. Overview: [`DCO/docs/SYSTEM_OVERVIEW.md`](DCO/docs/SYSTEM_OVERVIEW.md).
 
+`INPUT-CONTROLLER/`, `SCREEN-CONTROLLER/`, `DCO-CONTROL-PANEL/` and
+`DCO-PROTOCOL/` are shared with DCO4-REBORN — one repo, checked out into both
+synths, byte-identical in each. They learn which instrument they are part of
+from [`project_config.h`](project_config.h) at this root, read through a symlink
+that resolves differently in each project, so no board has a per-project flag,
+build script or hand-edited line. `PROJECT_INSTRUMENT 3` here is the single
+declaration that this is the monosynth.
+
 ## Architecture vs DCO4
 
 | | DCO4 | DCO3-MONOSYNTH (now) |

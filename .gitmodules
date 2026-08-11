@@ -35,3 +35,7 @@
 	path = DCO-CONTROL-PANEL
 	url = https://github.com/felipegaspari/DCO-CONTROL-PANEL.git
 	branch = main
+[submodule "DCO-PROTOCOL"]
+	path = DCO-PROTOCOL
+	url = https://github.com/felipegaspari/DCO-PROTOCOL.git
+	branch = main
