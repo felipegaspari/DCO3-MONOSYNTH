@@ -5,7 +5,7 @@
 [submodule "INPUT-CONTROLLER"]
 	path = INPUT-CONTROLLER
 	url = https://github.com/felipegaspari/DCO3-MONOSYNTH-INPUT-CONTROLLER.git
-	branch = improvements
+	branch = main
 [submodule "DCO"]
 	path = DCO
 	url = https://github.com/felipegaspari/DCO3-MONOSYNTH-DCO.git
