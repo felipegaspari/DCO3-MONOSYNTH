@@ -31,3 +31,7 @@
 [submodule "RoxMux_FELA"]
 	path = RoxMux_FELA
 	url = https://github.com/felipegaspari/RoxMux_FELA.git
+[submodule "DCO-CONTROL-PANEL"]
+	path = DCO-CONTROL-PANEL
+	url = https://github.com/felipegaspari/DCO-CONTROL-PANEL.git
+	branch = main
