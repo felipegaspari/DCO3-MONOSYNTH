@@ -1,7 +1,7 @@
 [submodule "SCREEN-CONTROLLER"]
 	path = SCREEN-CONTROLLER
 	url = https://github.com/felipegaspari/DCO3-MONOSYNTH-SCREEN-CONTROLLER.git
-	branch = improvements-color-screen
+	branch = Q15
 [submodule "INPUT-CONTROLLER"]
 	path = INPUT-CONTROLLER
 	url = https://github.com/felipegaspari/DCO3-MONOSYNTH-INPUT-CONTROLLER.git
@@ -38,4 +38,16 @@
 [submodule "DCO-PROTOCOL"]
 	path = DCO-PROTOCOL
 	url = https://github.com/felipegaspari/DCO-PROTOCOL.git
+	branch = main
+[submodule "mo-lfo"]
+	path = mo-lfo
+	url = https://github.com/felipegaspari/mo-lfo.git
+	branch = q15
+[submodule "ADSR_Bezier"]
+	path = ADSR_Bezier
+	url = https://github.com/felipegaspari/ADSR_Bezier.git
+	branch = Q15
+[submodule "DCO-SHARED-LIBRARIES"]
+	path = DCO-SHARED-LIBRARIES
+	url = https://github.com/felipegaspari/DCO-SHARED-LIBRARIES.git
 	branch = main
